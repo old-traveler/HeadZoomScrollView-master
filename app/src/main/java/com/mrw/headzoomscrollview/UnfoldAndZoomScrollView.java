@@ -12,7 +12,7 @@ import android.view.View;
 import android.view.ViewGroup;
 
 /**
- * 仿QQ个人信息详情界面背景图下拉扩展放大 Created by hyc on 2017/5/3 14:40
+ * 仿QQ个人信息详情界面中的背景图下拉扩展放大 Created by hyc on 2017/5/3 14:40
  */
 
 public class UnfoldAndZoomScrollView extends NestedScrollView {

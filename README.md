@@ -1,6 +1,6 @@
 # UnfoldAndZoomScrollView
 Just copy UnfoldAndZoomScrollView to your project.
 
-学习使用。
+仿QQ个人信息详情界面中背景图的下拉扩展放大功能，仅供学习使用。
 
-参考博客地址:http://blog.csdn.net/anyfive/article/details/52575262
+博客地址:http://blog.csdn.net/qq_34379015/article/details/71124450

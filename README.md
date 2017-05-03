@@ -1,6 +1,6 @@
-# HeadZoomScrollView
-Just copy HeadZoomScrollView to your project.
+# UnfoldAndZoomScrollView
+Just copy UnfoldAndZoomScrollView to your project.
 
-blog:http://blog.csdn.net/anyfive/article/details/52575262
+学习使用。
 
-博客地址:http://blog.csdn.net/anyfive/article/details/52575262
+参考博客地址:http://blog.csdn.net/anyfive/article/details/52575262

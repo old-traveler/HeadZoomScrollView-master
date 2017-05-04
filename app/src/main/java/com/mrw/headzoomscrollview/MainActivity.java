@@ -19,8 +19,11 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+
+
         ImageView iv = (ImageView) findViewById(R.id.iv);
-        Glide.with(this).load("http://img.ivsky.com/img/tupian/pre/201612/29/haohan_xingyun_yuzhou.jpg").into(iv);
+        Glide.with(this).load("http://img.ivsky.com/img/tupian/pre/201701/02/liverpool-011.jpg").into(iv);
     }
 
 }

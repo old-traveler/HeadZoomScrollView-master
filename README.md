@@ -27,11 +27,11 @@ Step 2.
 使用方法：
 
 
+
 <com.mrw.headzoomscrollview.UnfoldAndZoomScrollView
+
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:fillViewport="true"
-    android:fitsSystemWindows="true">
+    android:layout_height="match_parent">
 
     <LinearLayout
         android:layout_width="match_parent"

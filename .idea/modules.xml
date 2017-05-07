@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/HeadZoomScrollView-master.iml" filepath="$PROJECT_DIR$/HeadZoomScrollView-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/unfoldandzoomscrollview/unfoldandzoomscrollview.iml" filepath="$PROJECT_DIR$/unfoldandzoomscrollview/unfoldandzoomscrollview.iml" />
     </modules>
   </component>
 </project>

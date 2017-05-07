@@ -24,6 +24,45 @@ Step 2.
 	}
 
 
+使用方法：
+<com.mrw.headzoomscrollview.UnfoldAndZoomScrollView
+    android:id="@+id/dzsv"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true"
+    android:fitsSystemWindows="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:fitsSystemWindows="true">
+         //扩展放大的控件可为ImageView或其他布局、控件
+        <ImageView
+            android:fitsSystemWindows="true"
+            android:id="@+id/iv"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:scaleType="centerCrop"
+            />
+
+        <LinearLayout
+            android:background="?android:attr/selectableItemBackground"
+            android:clickable="true"
+            android:focusable="true"
+            android:layout_width="match_parent"
+            android:layout_height="50dp">
+            <TextView
+                android:background="#ffffff"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</com.mrw.headzoomscrollview.UnfoldAndZoomScrollView>
 
 
 博客地址:http://blog.csdn.net/qq_34379015/article/details/71124450

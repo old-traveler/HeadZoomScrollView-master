@@ -25,9 +25,9 @@ Step 2.
 
 
 使用方法：
+
+
 <com.mrw.headzoomscrollview.UnfoldAndZoomScrollView
-    android:id="@+id/dzsv"
-    xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fillViewport="true"

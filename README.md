@@ -1,9 +1,9 @@
-# UnfoldAndZoomScrollView
+# ~~UnfoldAndZoomScrollView~~
 
 ## 此项目已经更新，采取更优的方式实现，请移步
 HeadZoomLayout(https://github.com/old-traveler/HeadZoomLayout)
 
-~~仿QQ个人信息详情界面中背景图的下拉扩展放大功能，仅供学习使用。
+仿QQ个人信息详情界面中背景图的下拉扩展放大功能，仅供学习使用。
 
 ![img](https://github.com/old-traveler/HeadZoomScrollView-master/blob/master/img/20170503173531271.gif)
 
